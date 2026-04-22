@@ -23,7 +23,7 @@
 
 ## 🎯 Usage
 
-1. Visit the [live app](https://faizan-2005.github.io/GeniPolish/) or run locally
+1. Visit the [live url](https://faizan-2005.github.io/GeniPolish/) or run locally
 2. Drag and drop any watermarked **PNG** or **JPG** image
 3. Let the AI process and remove the watermark
 4. Compare original vs. cleaned using the side-by-side view
