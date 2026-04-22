@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GeniPolish Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
 <br/>
 
 # ✨ GeniPolish
@@ -22,6 +20,16 @@
 **GeniPolish** is a sleek, browser-based tool that uses AI to cleanly remove watermarks from images — no sign-up, no fuss. Just drag, drop, and download.
 
 ---
+
+## 🎯 Usage
+
+1. Visit the [live url](https://faizan-2005.github.io/GeniPolish/) or run locally
+2. Drag and drop any watermarked **PNG** or **JPG** image
+3. Let the AI process and remove the watermark
+4. Compare original vs. cleaned using the side-by-side view
+5. Hit **Download** to save your result
+
+--- 
 
 ## ⚡ Features
 
@@ -103,15 +111,7 @@ GeniPolish/
 
 ---
 
-## 🎯 Usage
 
-1. Visit the [live app](https://faizan-2005.github.io/GeniPolish/) or run locally
-2. Drag and drop any watermarked **PNG** or **JPG** image
-3. Let the AI process and remove the watermark
-4. Compare original vs. cleaned using the side-by-side view
-5. Hit **Download** to save your result
-
----
 
 ## 📄 License
 
