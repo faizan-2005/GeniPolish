@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Gemini De-Mark (CloudWaddie Edition)
-// @namespace    https://github.com/cloudwaddie
+// @name         Gemini De-Mark (Faizan Edition)
+// @namespace    https://github.com/faizan-2005
 // @version      1.0.0
 // @description  Automated watermark removal for Gemini generated imagery.
-// @author       cloudwaddie
+// @author       faizan-2005
 // @match        https://gemini.google.com/*
 // @icon         https://www.google.com/s2/favicons?domain=gemini.google.com
 // @grant        GM_xmlhttpRequest
